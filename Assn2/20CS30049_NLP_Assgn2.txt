@@ -1,0 +1,11 @@
+NAME : SHREYAS JENA
+NLP ASSIGNMENT-2
+
+Part-1 (Word2Vec) :
+Colab link : https://colab.research.google.com/drive/1wCRi8tUy4X3qLuvlEYfSLq8r6RUjn9g6?usp=sharing
+
+Part-2 (RNN) :
+Colab link : https://colab.research.google.com/drive/1bbosWH6B9Y0kwW0j0CJC25Ufw0M1akhS?usp=sharing
+
+Part-1 (BERT) :
+Colab link : https://colab.research.google.com/drive/1Uz0aLQuCTAPhSpmHfiDdR7kGEzvkn3Ox?usp=sharing
