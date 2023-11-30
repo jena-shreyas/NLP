@@ -1,0 +1,9 @@
+NAME : SHREYAS JENA
+NLP ASSIGNMENT-3
+
+Part-1 (Zero-shot+Few-shot) :
+Colab link : https://colab.research.google.com/drive/1E9fb7L2qhAwepbvCjSevduNlzfczv9P-?usp=sharing
+
+Part-2 ((PEFT+QLoRa) :
+Colab link : https://colab.research.google.com/drive/1CTKLNPCWbguCL1d_koIRqtegWcAH7yoV?usp=sharing
+
