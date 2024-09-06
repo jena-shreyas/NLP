@@ -15,5 +15,5 @@ The assignments for this course covered the following tasks :
   - BERT
  
 - [Assignment 3](https://github.com/jena-shreyas/NLP/tree/master/Assn3) :
-  - Leverage Flan-T5 in zero-shot and few-shot settings for movie review classification
-  - Finetune Flan-T5 for movie review classification using PEFT and QLoRA techniques
+  - Leverage Flan-T5 in zero-shot and few-shot settings for detecting hateful comments on social media
+  - Finetune Flan-T5 using PEFT and QLoRA techniques, efficiently training only 0.05% of the model parameters on a consumer GPU.
